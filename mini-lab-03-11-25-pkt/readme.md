@@ -28,4 +28,4 @@
 *   **mini lab 03.11.2025.zip:** এটি এই প্রজেক্টের মূল ফাইল। এটি ডাউনলোড করে আপনি সম্পূর্ণ টপোলজি এবং প্রতিটি ডিভাইসের কনফিগারেশন দেখতে পারবেন।
 
 ## ডাউনলোড লিঙ্ক
-[**প্রজেক্ট ফাইল ডাউনলোড করুন**](https://github.com/shuvacst/shuvacst.projects/blob/main/mini-lab-03-11-25-pkt/mini%20lab%2003.11.2025.zip )
+[**প্রজেক্ট ফাইল ডাউনলোড করুন**](https://raw.githubusercontent.com/shuvacst/shuvacst.projects/main/mini-lab-03-11-25-pkt/mini%20lab%2003.11.2025.zip )
