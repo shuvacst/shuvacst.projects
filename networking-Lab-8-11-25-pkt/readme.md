@@ -37,5 +37,6 @@
 
 ## কীভাবে ব্যবহার করবেন
 ফাইলটি ডাউনলোড করে Cisco Packet Tracer সফটওয়্যারে খুলুন। সিমুলেশন মোডে আপনি ডেটা প্যাকেট পাঠিয়ে প্রতিটি কনফিগারেশন পরীক্ষা করতে পারবেন। 
-## download link:
-*   **http://github.com/shuvacst/shuvacst.projects/blob/main/Lab-8-11-25-pkt/networking%20lab%208.11.25.zip
+## ডাউনলোড লিঙ্ক
+[**প্রজেক্ট ফাইল ডাউনলোড করুন**](https://github.com/shuvacst/shuvacst.projects/raw/refs/heads/main/networking-Lab-8-11-25-pkt/networking%20lab%208.11.25.zip )
+
