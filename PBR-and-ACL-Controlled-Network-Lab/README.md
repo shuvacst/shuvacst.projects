@@ -12,9 +12,9 @@
 
 ## 💻 টপোলজি ডায়াগ্রাম
 
-![Network Diagram](PBR-and-ACL-Controlled-Network-Lab/PBR-and-ACL-Controlled-Network-Lab.JPG)
 
 
+![](https://github.com/shuvacst/shuvacst.projects/blob/main/PBR-and-ACL-Controlled-Network-Lab/PBR-and-ACL-Controlled-Network-Lab.JPG)
 
 
 ## ✨ এই প্রজেক্টের প্রধান কাজ এবং কেন এটি গুরুত্বপূর্ণ
