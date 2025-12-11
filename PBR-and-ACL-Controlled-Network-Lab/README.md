@@ -12,7 +12,7 @@
 
 ## 💻 টপোলজি ডায়াগ্রাম
 
-https://github.com/shuvacst/shuvacst.projects/blob/16adbf3885e685f10fe692a72f1ae1ef55e164e9/PBR-and-ACL-Controlled-Network-Lab/PBR-and-ACL-Controlled-Network-Lab.JPG
+![Network Diagram](images/PBR-and-ACL-Controlled-Network-Lab.jpg)
 
 
 
