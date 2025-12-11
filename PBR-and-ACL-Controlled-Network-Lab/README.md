@@ -12,7 +12,7 @@
 
 ## 💻 টপোলজি ডায়াগ্রাম
 
-![Network Diagram](images/PBR-and-ACL-Controlled-Network-Lab.jpg)
+![Network Diagram](PBR-and-ACL-Controlled-Network-Lab/PBR-and-ACL-Controlled-Network-Lab.JPG)
 
 
 
